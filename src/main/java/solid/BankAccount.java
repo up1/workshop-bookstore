@@ -11,6 +11,7 @@ public class BankAccount {
 
     void transferMoney(BankAccount targetAccount, int amount) {
         // TODO => transfer money process
+        System.out.println("Transfer money in Thailand");
     }
 
 }
